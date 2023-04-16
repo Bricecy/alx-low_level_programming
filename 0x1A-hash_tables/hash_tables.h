@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stddef.h>
 
+/*advanced*/
 /**
  * struct hash_node_s - Node of a hash table
  * @key: The key, string
