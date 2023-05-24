@@ -1,0 +1,9 @@
+all: school
+
+school:
+    # Add compilation commands here
+    # For example:
+    # gcc -o school main.c
+
+.PHONY: all
+
